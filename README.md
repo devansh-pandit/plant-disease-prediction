@@ -28,7 +28,7 @@ A web-based application to predict plant diseases from leaf images, enabling ear
    ```  
 2. Install dependencies:  
    ```
-   pip install -r requirements.txt  
+   pip install -r app/requirements.txt  
    ```  
 
 ### Run the Application  
